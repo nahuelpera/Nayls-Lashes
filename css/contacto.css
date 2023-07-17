@@ -50,6 +50,9 @@ body{
 }
 
 .form-cta{
+    justify-content: center;
+    display: flex;
+    width: 100%;
     font-family: inherit;
     background-color: #089fe0;
     color: #fff;
